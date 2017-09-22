@@ -1,6 +1,6 @@
 # Site
-title:              Simply Data
-bio:                'Winnie's Blog'
+title:              "Simply Data"
+bio:                "Winnie's Blog"
 description:        "My Journey to Data Science"
 reading_time:       true
 words_per_minute:   200
