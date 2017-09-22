@@ -4,7 +4,7 @@ bio:                "Winnie's Blog"
 description:        "My Journey to Data Science"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/wi,jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -37,7 +37,7 @@ disqus_shortname:   winniekuo
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              kuow89@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         vv1nn1
