@@ -35,7 +35,9 @@ After narrowing down the neighborhoods, we looked for the stations that have the
 
 **Identify the time of day/day of week with the highest traffic**
 
-We used a heat map to visualize the traffic at the target stations by day of week and time of day.<figure>
+We used a heat map to visualize the traffic at the target stations by day of week and time of day.
+
+<figure>
 	<a href="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png"><img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png"></a>
 
 
@@ -51,4 +53,4 @@ We used a heat map to visualize the traffic at the target stations by day of wee
 ## Sources
 
 - MTA Turnstile Data [http://web.mta.info/developers/turnstile.html]- NYC Zip Code GeoJson: Civic Dashboards NYC Zip Code Tabulation Data- NYC Subway Station Location Data: NYC Open Data Subway Entrances- How America Gives [http://www.philanthropy.com] - Ultimate Guide to NYC’s Booming Tech Neighborhoods [http://www.builtinnyc.com] 
-
+
