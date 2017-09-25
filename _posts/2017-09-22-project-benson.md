@@ -44,7 +44,7 @@ After narrowing down the neighborhoods, we looked for the stations that have the
 - HERALD SQUARE
 
 <figure>
-	<img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png"></a>
+	<img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png">
 </figure>
 
 **Identify the time of day/day of week with the highest traffic**
@@ -52,7 +52,7 @@ After narrowing down the neighborhoods, we looked for the stations that have the
 We used a heat map to visualize the traffic at the target stations by day of week and time of day.
 
 <figure>
-	<a href="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png"><img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png"></a>
+	<img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png">
 </figure>
 
 ---
