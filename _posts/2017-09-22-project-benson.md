@@ -56,9 +56,7 @@ After narrowing down the neighborhoods, we looked for the stations that have the
 We used a heat map to visualize the traffic at the target stations by day of week and time of day.
 
 {% capture images %}
-<figure>
-	<img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png">
-</figure>
+	https://raw.githubusercontent.com/vv1nn1/vv1nn1.github.io/master/assets/img/benson/target_stations.png
 {% endcapture %}
 
 ---
