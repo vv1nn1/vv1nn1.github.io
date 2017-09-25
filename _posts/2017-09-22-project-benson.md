@@ -32,8 +32,8 @@ Before starting any data analysis, we have to understand the goal that the clien
 With some research, we found that the most giving people in New York City are in the age group 25-44. We decided to find the zip codes where people in this age group lives using the US Census data. The neighborhoods where our targeted age group lives in are marked in light purple on the map below. We also wanted to target people in the tech industry so we look for neighborhoods that have a high density of tech start-ups. The neighborhoods are marked in gray on the map below. 
 
 <figure>
-	<a href="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_neighborhoods.png"><img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_neighborhoods.png"></a>
-	
+	<img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_neighborhoods.png"></a>
+</figure>	
 
 **Identify target stations**
 
@@ -44,8 +44,8 @@ After narrowing down the neighborhoods, we looked for the stations that have the
 - HERALD SQUARE
 
 <figure>
-	<a href="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png"><img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png"></a>
-	
+	<img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png"></a>
+</figure>
 
 **Identify the time of day/day of week with the highest traffic**
 
@@ -53,7 +53,7 @@ We used a heat map to visualize the traffic at the target stations by day of wee
 
 <figure>
 	<a href="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png"><img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/heatmap.png"></a>
-
+</figure>
 
 ---
 ## Recommendation
