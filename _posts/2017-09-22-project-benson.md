@@ -7,7 +7,7 @@ project: true
 tag: 
 - project
 - recommendation
-- data exploration
+- exploratory data analysis
 
 comments: false
 ---

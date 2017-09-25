@@ -6,6 +6,7 @@ date: 2017-09-24
 comments: false
 ---
 
+![ds-venn](/assets/img/Data_Science_VD.png){:class="img-responsive"}
 
 I am an aspiring data scientist with background in Physics and Business Intelligence. I enjoy the process of looking for answers in data because it allows me to use my creativity and critical thinking skills to tell insightful stories. I get to push myself to see beyond and obvious and think broadly when working with data. It’s never boring!
 
