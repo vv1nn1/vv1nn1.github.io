@@ -47,7 +47,7 @@ After narrowing down the neighborhoods, we looked for the stations that have the
 
 {% capture images %}
 <figure>
-	<img src="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png">
+	<a href="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png"></a>
 </figure>
 {% endcapture %}
 
