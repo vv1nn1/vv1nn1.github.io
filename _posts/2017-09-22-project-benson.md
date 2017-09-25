@@ -43,19 +43,17 @@ After narrowing down the neighborhoods, we looked for the stations that have the
 - PENN STATION
 - HERALD SQUARE
 
-{% capture images %}
-<figure>
-	<a href="https://github.com/vv1nn1/vv1nn1.github.io/blob/master/assets/img/benson/target_stations.png"></a>
-</figure>
-{% endcapture %}
+
+![target-stations](/assets/img/benson/target_stations.png){:class="img-responsive"}
+
 
 **Identify the time of day/day of week with the highest traffic**
 
 We used a heat map to visualize the traffic at the target stations by day of week and time of day.
 
-{% capture images %}
-	https://raw.githubusercontent.com/vv1nn1/vv1nn1.github.io/master/assets/img/benson/target_stations.png
-{% endcapture %}
+
+![heatmap](/assets/img/benson/heatmap.png){:class="img-responsive"}
+
 
 ---
 ## Recommendation
