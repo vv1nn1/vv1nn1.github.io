@@ -30,12 +30,10 @@ Before starting any data analysis, we have to understand the goal that the clien
 **Identify target neighborhoods**
 
 With some research, we found that the most giving people in New York City are in the age group 25-44. We decided to find the zip codes where people in this age group lives using the US Census data. The neighborhoods where our targeted age group lives in are marked in light purple on the map below. We also wanted to target people in the tech industry so we look for neighborhoods that have a high density of tech start-ups. The neighborhoods are marked in gray on the map below. 
+	
 
-{% capture images %}
-<figure>
-	<img src="/assets/img/benson/target_neighborhoods.png">
-</figure>
-{% endcapture %}	
+![target-neighborhoods](/assets/img/benson/target_neighborhoods.png){:class="img-responsive"}
+
 
 **Identify target stations**
 
