@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Project Benson
+title:  Project Benson - Hacking the MTA
 date:   2017-09-22
-excerpt: “MTA Data Exploratory Project”
+excerpt: “Exploratory data analysis on MTA turnstile data”
 project: true
 tag: 
 - project
@@ -23,6 +23,11 @@ Before starting any data analysis, we have to understand the goal that the clien
 1. Identify target neighborhoods
 2. Identify target stations
 3. Identify the time of day/day of week with the highest traffic
+
+---
+## MTA Turnstile Data
+
+
 
 ---
 ## Solution
