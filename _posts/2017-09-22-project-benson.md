@@ -3,7 +3,7 @@ layout: post
 title:  Project Benson - Hacking the MTA
 date:   2017-09-22
 excerpt: “Exploratory data analysis on MTA turnstile data”
-project: true
+project: false
 tag: 
 - project
 - recommendation
@@ -26,6 +26,8 @@ Before starting any data analysis, we have to understand the goal that the clien
 
 ---
 ## MTA Turnstile Data
+
+MTA tracks the entries and exists at every turnstile at each station. The numbers are typically recorded every four hours. 
 
 
 
