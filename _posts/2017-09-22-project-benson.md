@@ -3,7 +3,7 @@ layout: post
 title:  Project Benson - Hacking the MTA
 date:   2017-09-22
 excerpt: “Exploratory data analysis on MTA turnstile data”
-project: false
+project: 
 tag: 
 - project
 - recommendation
