@@ -1,7 +1,7 @@
 ---
-layout: resume
+layout: page
 title: Resume
 excerpt: "Resume"
 comments: false
 ---
-![ds-venn](/assets/img/Resume_Winnie_Final.png){:class="img-responsive"}
+![resume](/assets/img/Resume_Winnie_Final.png){:class="img-responsive"}
